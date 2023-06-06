@@ -39,6 +39,7 @@ const ResidentCardImg = ({ url }) => {
           </li>
         </ul>
       </section>
+      <link rel="stylesheet" href="https://github.com/Jalmar01/tercer-entregable" />
     </article>
   )
 }
